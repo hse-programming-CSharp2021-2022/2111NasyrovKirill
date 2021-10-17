@@ -1,0 +1,16 @@
+D:\c#\БПИ2111-2_Nasyrov_Kirill\prog1\bin\Debug\net5.0\prog1.exe
+D:\c#\БПИ2111-2_Nasyrov_Kirill\prog1\bin\Debug\net5.0\prog1.deps.json
+D:\c#\БПИ2111-2_Nasyrov_Kirill\prog1\bin\Debug\net5.0\prog1.runtimeconfig.json
+D:\c#\БПИ2111-2_Nasyrov_Kirill\prog1\bin\Debug\net5.0\prog1.runtimeconfig.dev.json
+D:\c#\БПИ2111-2_Nasyrov_Kirill\prog1\bin\Debug\net5.0\prog1.dll
+D:\c#\БПИ2111-2_Nasyrov_Kirill\prog1\bin\Debug\net5.0\ref\prog1.dll
+D:\c#\БПИ2111-2_Nasyrov_Kirill\prog1\bin\Debug\net5.0\prog1.pdb
+D:\c#\БПИ2111-2_Nasyrov_Kirill\prog1\obj\Debug\net5.0\prog1.csproj.AssemblyReference.cache
+D:\c#\БПИ2111-2_Nasyrov_Kirill\prog1\obj\Debug\net5.0\prog1.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\БПИ2111-2_Nasyrov_Kirill\prog1\obj\Debug\net5.0\prog1.AssemblyInfoInputs.cache
+D:\c#\БПИ2111-2_Nasyrov_Kirill\prog1\obj\Debug\net5.0\prog1.AssemblyInfo.cs
+D:\c#\БПИ2111-2_Nasyrov_Kirill\prog1\obj\Debug\net5.0\prog1.csproj.CoreCompileInputs.cache
+D:\c#\БПИ2111-2_Nasyrov_Kirill\prog1\obj\Debug\net5.0\prog1.dll
+D:\c#\БПИ2111-2_Nasyrov_Kirill\prog1\obj\Debug\net5.0\ref\prog1.dll
+D:\c#\БПИ2111-2_Nasyrov_Kirill\prog1\obj\Debug\net5.0\prog1.pdb
+D:\c#\БПИ2111-2_Nasyrov_Kirill\prog1\obj\Debug\net5.0\prog1.genruntimeconfig.cache
