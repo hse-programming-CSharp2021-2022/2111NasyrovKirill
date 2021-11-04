@@ -1,0 +1,15 @@
+D:\c#\module2\seminar1\homework\ex2\bin\Debug\net5.0\ex2.exe
+D:\c#\module2\seminar1\homework\ex2\bin\Debug\net5.0\ex2.deps.json
+D:\c#\module2\seminar1\homework\ex2\bin\Debug\net5.0\ex2.runtimeconfig.json
+D:\c#\module2\seminar1\homework\ex2\bin\Debug\net5.0\ex2.runtimeconfig.dev.json
+D:\c#\module2\seminar1\homework\ex2\bin\Debug\net5.0\ex2.dll
+D:\c#\module2\seminar1\homework\ex2\bin\Debug\net5.0\ref\ex2.dll
+D:\c#\module2\seminar1\homework\ex2\bin\Debug\net5.0\ex2.pdb
+D:\c#\module2\seminar1\homework\ex2\obj\Debug\net5.0\ex2.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\module2\seminar1\homework\ex2\obj\Debug\net5.0\ex2.AssemblyInfoInputs.cache
+D:\c#\module2\seminar1\homework\ex2\obj\Debug\net5.0\ex2.AssemblyInfo.cs
+D:\c#\module2\seminar1\homework\ex2\obj\Debug\net5.0\ex2.csproj.CoreCompileInputs.cache
+D:\c#\module2\seminar1\homework\ex2\obj\Debug\net5.0\ex2.dll
+D:\c#\module2\seminar1\homework\ex2\obj\Debug\net5.0\ref\ex2.dll
+D:\c#\module2\seminar1\homework\ex2\obj\Debug\net5.0\ex2.pdb
+D:\c#\module2\seminar1\homework\ex2\obj\Debug\net5.0\ex2.genruntimeconfig.cache
