@@ -1,0 +1,16 @@
+D:\c#\семинары\seminar_2_classwork_1\bin\Debug\net5.0\seminar_2_classwork_1.exe
+D:\c#\семинары\seminar_2_classwork_1\bin\Debug\net5.0\seminar_2_classwork_1.deps.json
+D:\c#\семинары\seminar_2_classwork_1\bin\Debug\net5.0\seminar_2_classwork_1.runtimeconfig.json
+D:\c#\семинары\seminar_2_classwork_1\bin\Debug\net5.0\seminar_2_classwork_1.runtimeconfig.dev.json
+D:\c#\семинары\seminar_2_classwork_1\bin\Debug\net5.0\seminar_2_classwork_1.dll
+D:\c#\семинары\seminar_2_classwork_1\bin\Debug\net5.0\ref\seminar_2_classwork_1.dll
+D:\c#\семинары\seminar_2_classwork_1\bin\Debug\net5.0\seminar_2_classwork_1.pdb
+D:\c#\семинары\seminar_2_classwork_1\obj\Debug\net5.0\seminar_2_classwork_1.csproj.AssemblyReference.cache
+D:\c#\семинары\seminar_2_classwork_1\obj\Debug\net5.0\seminar_2_classwork_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\семинары\seminar_2_classwork_1\obj\Debug\net5.0\seminar_2_classwork_1.AssemblyInfoInputs.cache
+D:\c#\семинары\seminar_2_classwork_1\obj\Debug\net5.0\seminar_2_classwork_1.AssemblyInfo.cs
+D:\c#\семинары\seminar_2_classwork_1\obj\Debug\net5.0\seminar_2_classwork_1.csproj.CoreCompileInputs.cache
+D:\c#\семинары\seminar_2_classwork_1\obj\Debug\net5.0\seminar_2_classwork_1.dll
+D:\c#\семинары\seminar_2_classwork_1\obj\Debug\net5.0\ref\seminar_2_classwork_1.dll
+D:\c#\семинары\seminar_2_classwork_1\obj\Debug\net5.0\seminar_2_classwork_1.pdb
+D:\c#\семинары\seminar_2_classwork_1\obj\Debug\net5.0\seminar_2_classwork_1.genruntimeconfig.cache
