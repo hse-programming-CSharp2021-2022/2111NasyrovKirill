@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v18AQnk8UOduED8C29H1ndeOixZ0D8B0SoYGJg3n+WYKzUrXVS76if7mJUv8JR9Nx6Ttpmsb/IX0YiSpq8IfvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\2111NasyrovKirill\\module2\\seminar3\\prog3\\prog3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
