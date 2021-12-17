@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar8\prog\bin\Debug\net5.0\prog.exe
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar8\prog\bin\Debug\net5.0\prog.deps.json
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar8\prog\bin\Debug\net5.0\prog.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar8\prog\bin\Debug\net5.0\prog.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar8\prog\bin\Debug\net5.0\prog.dll
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar8\prog\bin\Debug\net5.0\ref\prog.dll
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar8\prog\bin\Debug\net5.0\prog.pdb
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar8\prog\obj\Debug\net5.0\prog.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar8\prog\obj\Debug\net5.0\prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar8\prog\obj\Debug\net5.0\prog.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar8\prog\obj\Debug\net5.0\prog.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar8\prog\obj\Debug\net5.0\prog.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar8\prog\obj\Debug\net5.0\prog.dll
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar8\prog\obj\Debug\net5.0\ref\prog.dll
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar8\prog\obj\Debug\net5.0\prog.pdb
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar8\prog\obj\Debug\net5.0\prog.genruntimeconfig.cache
