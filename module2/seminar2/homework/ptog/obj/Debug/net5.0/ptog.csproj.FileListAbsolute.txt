@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar2\homework\ptog\bin\Debug\net5.0\ptog.exe
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar2\homework\ptog\bin\Debug\net5.0\ptog.deps.json
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar2\homework\ptog\bin\Debug\net5.0\ptog.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar2\homework\ptog\bin\Debug\net5.0\ptog.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar2\homework\ptog\bin\Debug\net5.0\ptog.dll
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar2\homework\ptog\bin\Debug\net5.0\ref\ptog.dll
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar2\homework\ptog\bin\Debug\net5.0\ptog.pdb
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar2\homework\ptog\obj\Debug\net5.0\ptog.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar2\homework\ptog\obj\Debug\net5.0\ptog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar2\homework\ptog\obj\Debug\net5.0\ptog.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar2\homework\ptog\obj\Debug\net5.0\ptog.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar2\homework\ptog\obj\Debug\net5.0\ptog.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar2\homework\ptog\obj\Debug\net5.0\ptog.dll
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar2\homework\ptog\obj\Debug\net5.0\ref\ptog.dll
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar2\homework\ptog\obj\Debug\net5.0\ptog.pdb
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module2\seminar2\homework\ptog\obj\Debug\net5.0\ptog.genruntimeconfig.cache
