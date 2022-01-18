@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework31\bin\Debug\homework31.exe
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework31\bin\Debug\homework31.pdb
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework31\obj\Debug\homework31.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework31\obj\Debug\homework31.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework31\obj\Debug\homework31.exe
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework31\obj\Debug\homework31.pdb
