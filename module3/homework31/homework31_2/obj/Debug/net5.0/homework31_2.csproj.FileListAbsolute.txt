@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework31\homework31_2\bin\Debug\net5.0\homework31_2.exe
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework31\homework31_2\bin\Debug\net5.0\homework31_2.deps.json
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework31\homework31_2\bin\Debug\net5.0\homework31_2.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework31\homework31_2\bin\Debug\net5.0\homework31_2.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework31\homework31_2\bin\Debug\net5.0\homework31_2.dll
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework31\homework31_2\bin\Debug\net5.0\ref\homework31_2.dll
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework31\homework31_2\bin\Debug\net5.0\homework31_2.pdb
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework31\homework31_2\obj\Debug\net5.0\homework31_2.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework31\homework31_2\obj\Debug\net5.0\homework31_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework31\homework31_2\obj\Debug\net5.0\homework31_2.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework31\homework31_2\obj\Debug\net5.0\homework31_2.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework31\homework31_2\obj\Debug\net5.0\homework31_2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework31\homework31_2\obj\Debug\net5.0\homework31_2.dll
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework31\homework31_2\obj\Debug\net5.0\ref\homework31_2.dll
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework31\homework31_2\obj\Debug\net5.0\homework31_2.pdb
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework31\homework31_2\obj\Debug\net5.0\homework31_2.genruntimeconfig.cache
