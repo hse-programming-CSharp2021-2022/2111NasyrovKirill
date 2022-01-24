@@ -2,6 +2,7 @@
 
 namespace homework33
 {
+    
     class Dot
     {
         public double X { get; set; }
@@ -19,7 +20,7 @@ namespace homework33
             {
                 X = 20*rnd.NextDouble()-10;
                 Y = 20*rnd.NextDouble()-10;
-                if (X < 0 & Y < 0) OnCoordChanged?.Invoke(new Dot(X, Y));
+                if (X < 0 & Y < 0) OnCoordChanged?.Invoke(this);
             }
         }
     }
