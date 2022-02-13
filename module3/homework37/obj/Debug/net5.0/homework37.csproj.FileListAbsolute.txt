@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework37\bin\Debug\net5.0\homework37.exe
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework37\bin\Debug\net5.0\homework37.deps.json
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework37\bin\Debug\net5.0\homework37.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework37\bin\Debug\net5.0\homework37.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework37\bin\Debug\net5.0\homework37.dll
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework37\bin\Debug\net5.0\ref\homework37.dll
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework37\bin\Debug\net5.0\homework37.pdb
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework37\obj\Debug\net5.0\homework37.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework37\obj\Debug\net5.0\homework37.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework37\obj\Debug\net5.0\homework37.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework37\obj\Debug\net5.0\homework37.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework37\obj\Debug\net5.0\homework37.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework37\obj\Debug\net5.0\homework37.dll
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework37\obj\Debug\net5.0\ref\homework37.dll
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework37\obj\Debug\net5.0\homework37.pdb
+C:\Users\Admin\Documents\GitHub\2111NasyrovKirill\module3\homework37\obj\Debug\net5.0\homework37.genruntimeconfig.cache
