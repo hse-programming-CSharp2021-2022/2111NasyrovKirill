@@ -20,7 +20,7 @@ namespace homework311
                     }
                 }
             }
-
+            byte[] arr = new byte[10];
             using (FileStream stream = new FileStream(fileName, FileMode.OpenOrCreate))
             {
                 using (var reader = new BinaryReader(stream))
@@ -32,12 +32,19 @@ namespace homework311
                         Console.WriteLine(a);
                         Console.Write("Введите число: ");
                         byte d = byte.Parse(Console.ReadLine());
-                        using (var writer = new BinaryWriter(stream))
-                        {
-                            stream.Seek(cnt, SeekOrigin.Begin);
-                            writer.Write(d);
-                        }
+                        arr[cnt]=d;
                         cnt+=1;
+                    }
+                }
+            }
+
+            using (FileStream stream = new FileStream(fileName, FileMode.OpenOrCreate, FileAccess.ReadWrite))
+            {
+                using (var writer = new BinaryWriter(stream))
+                {
+                    for (int i = 0; i < 10; i++)
+                    {
+                        writer.Write(arr[i]);
                     }
                 }
             }
